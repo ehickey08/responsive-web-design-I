@@ -324,4 +324,32 @@ li{
     .bottom-content div{
         margin: 5% 0px;
     }
+
+    .inner-page-top-content{
+        display:flex;
+        flex-direction: column;
+    }
+
+    .inner-page-top-content div{
+        width: 100%;
+    }
+
+    .inner-page-top-content button {
+        text-align: center;
+        margin: 5% 35% 0%;
+    }
+
+    .services-info-img{
+        display:none;
+    }
+
+    .inner-page-bottom-content .box-one{
+        width: 100%;
+        padding: 0px;
+    }
+
+    .box-one ul{
+        text-align: center;
+        list-style-position: inside;
+    }
 }
